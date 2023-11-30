@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Météo_API", "Météo_API\Météo_API.csproj", "{47721772-72BD-43D1-95F0-998E1631829C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "Éléments de solution", "{6CB14432-493E-46C6-9334-47325BEC1BDA}"
+	ProjectSection(SolutionItems) = preProject
+		..\partially-cloudy.png = ..\partially-cloudy.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47721772-72BD-43D1-95F0-998E1631829C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47721772-72BD-43D1-95F0-998E1631829C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47721772-72BD-43D1-95F0-998E1631829C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47721772-72BD-43D1-95F0-998E1631829C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B421231E-F1E6-4AA2-A35D-C895FF26A59A}
+	EndGlobalSection
+EndGlobal
